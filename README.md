@@ -11,4 +11,4 @@
 
 Esto instalará todo lo necesario, posteriormente ejecutar el archivo 
 
-__mov_planeta_pygame.py
+*_mov_planeta_pygame.py_*
